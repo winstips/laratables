@@ -1,5 +1,5 @@
 {
-    "name": "okipa/laravel-table",
+    "name": "winstips/laratables",
     "description": "Generate tables from Eloquent models.",
     "type": "library",
     "keywords": [
